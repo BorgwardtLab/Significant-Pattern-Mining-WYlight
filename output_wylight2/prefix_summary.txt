@@ -1,0 +1,4 @@
+RESULTS
+	 Corrected significance threshold: 4.900000e-02
+	 LCM support: 10
+	 Number of significant patterns found: 1570

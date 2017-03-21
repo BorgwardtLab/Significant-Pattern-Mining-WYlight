@@ -1,0 +1,6 @@
+RESULTS
+	 Corrected significance threshold: 3.201652e-05
+	 FWER at corrected significance threshold: 4.900000e-02
+	 Final LCM support: 10
+	 Final P-value lower bound: 2.284329e-05
+	 FWER at final P-value lower bound: 1.900000e-02

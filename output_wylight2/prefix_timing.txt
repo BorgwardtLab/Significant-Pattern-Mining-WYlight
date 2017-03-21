@@ -1,0 +1,7 @@
+CODE PROFILING
+Total execution time: 0.010941 (s).
+	 Time to initialise LCM: 0.002409 (s).
+	 Time to initialise caches: 0.000146 (s).
+	 Time to enumerate significant patterns: 0.007585 (s).
+	 Time to terminate algorithm: 0.000417 (s).
+Peak memory consumption: 1159168 (KB in Linux, B in Mac OS X).
